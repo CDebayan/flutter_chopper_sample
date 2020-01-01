@@ -1,0 +1,26 @@
+name: flutter_chopper_sample
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  chopper:
+  logging:
+  fluttertoast:
+  image_picker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  chopper_generator:
+  build_runner:
+
+flutter:
+
+  uses-material-design: true
